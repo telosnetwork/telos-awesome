@@ -2,6 +2,8 @@
 
 ## Telos mainnet node administration
 
+* [Genesis JSON and list of p2p endpoints](https://github.com/telosnetwork/api-p2p-nodes)
+
 ### Daily portable snapshot archives
 
 * [EOS Arabia](https://snapshots.eosarabia.net/)
@@ -18,6 +20,6 @@
 
 ## Developer resources
 
-### Telos Testnet
+* [Developers portal](https://telos.net/developers/)
 
-* [Testnet account creator and faucet](https://app.telos.net/testnet/developers)
+* [Telos Testnet account creator and faucet](https://app.telos.net/testnet/developers)
